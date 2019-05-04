@@ -20,5 +20,5 @@ npm run lint
 ```
 ## 基于 
  > cli3.x | vuex | axios | vue-lazyload | vue-router | better-scroll | webpack | vue-scroller|
- > eslint 严格规范代码
- > stylus css处理器
+ >> eslint 严格规范代码
+ >>> stylus css处理器
