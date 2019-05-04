@@ -18,6 +18,6 @@ npm run test
 ```
 npm run lint
 ```
-## 基于 vue cli3.x vuex axios vue-lazyload vue-router better-scroll webpack vue-scroller
- ### 项目用  eslint    严格规范代码
- ### css处理器  stylus
+ > cli3.x | vuex | axios | vue-lazyload | vue-router | better-scroll | webpack | vue-scroller|
+### 项目用  eslint    严格规范代码
+### css处理器  stylus
