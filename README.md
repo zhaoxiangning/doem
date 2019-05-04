@@ -18,6 +18,9 @@ npm run test
 ```
 npm run lint
 ```
+## 前后交互
+ ### mockjs 
+ ### postman
 ## 基于 
  > cli3.x 
  >> eslint 严格规范代码
@@ -30,7 +33,3 @@ npm run lint
  >>>>>>>>> webpack 工程化
  >>>>>>>>>> vuex 状态管理
  >>>>>>>>>>> date-fns 时间管理
-## 前后交互
- ### mockjs 
- ### postman
- 
