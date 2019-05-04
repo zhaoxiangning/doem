@@ -29,4 +29,8 @@ npm run lint
  >>>>>>>> axios ajax请求
  >>>>>>>>> webpack 工程化
  >>>>>>>>>> vuex 状态管理
- >>>>>>>>>> date-fns 时间管理
+ >>>>>>>>>>> date-fns 时间管理
+## 前后交互
+ ### mockjs 
+ ### postman
+ 
