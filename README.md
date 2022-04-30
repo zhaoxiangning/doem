@@ -22,9 +22,8 @@ npm run test
 
 ### Lints and fixes files
 ```
-npm run lint
+npm run lint   1
 ```
 
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
 See [Configuration Reference](https://cli.vuejs.org/config/).
